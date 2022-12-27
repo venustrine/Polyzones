@@ -1,7 +1,6 @@
 fx_version "cerulean"
 game "gta5"
 
-
 author "venus#8501" ##discord 
 description "https://github.com/venustrine/Polyzones"
 
