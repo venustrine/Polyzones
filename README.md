@@ -9,3 +9,6 @@ I will be leaving a lot of notes for warning, for those like me who are new to l
 If you find any errors in my code, or any tips you wanna send my way please reach me on discord @ venus#8501
 
 I want to learn more, and I appreciate any help that is sent my way!
+
+
+If you would like to join my RP server and view my projects in real time, visit discord.gg/projecthighrise
